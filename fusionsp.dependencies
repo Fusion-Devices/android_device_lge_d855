@@ -3,7 +3,7 @@
         "remote":      "fs-dev",
         "repository":  "android_device_lge_g3-common",
         "target_path": "device/lge/g3-common",
-        "revision":    "lp5.1"
+        "revision":    "lp5.1-new"
   },
   {
         "remote":      "fs-dev",
